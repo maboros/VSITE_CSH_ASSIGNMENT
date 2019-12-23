@@ -16,7 +16,7 @@ Voditi računa o pravilima pisanja velikih slova „dž“, „lj“, „nj“!
 
 Final project for CSHARP VSITE 2019/2020:
 
-Assignment
+Assignment:
 
 Make a GUI program with an input field,
 enable loading and saving files in a menu,
@@ -25,4 +25,4 @@ By selecting "Sva velika" all selected letters in the text have to change to cap
 by selecting "Prema pravopisu" all letters must be changed to not capital letters,
 except for letters after punctuation marks (fullstop, exclamation point and question mark),
 which have to be switched according to spelling rules.
-Make sure that "dž", "lj", and "nj" are also according to spelling rules.
+Make sure that "dž", "lj", and "nj" are also according to spelling rules!
